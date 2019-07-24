@@ -42,8 +42,8 @@ video {
 
 a {
   background: transparent;
+  text-decoration: none;
 }
-
 a:active,
 a:hover {
   outline: 0;
